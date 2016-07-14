@@ -26,7 +26,9 @@ $150US/120GBPand will cover snacks at the meeting and lunch Thursday and Friday.
 <div align=center><hr width=50%></div>
 <h3><a aname=hotel>Hotel</a></h3>
 <p>
-We are looking at availability of the EuroMPI hotels for the week before the EuroMPI conference for the MPI forum. More information will be provided shortly.
+The block of rooms at the Masson House are also available for the MPI Forum meeting. The 15% discount will be honored as well (using the code "CONF16").
+For details and to reserve a room see <a href="http://www.eurompi2016.ed.ac.uk/accommodation">http://www.eurompi2016.ed.ac.uk/accommodation</a>
+
 </p>
 
 
