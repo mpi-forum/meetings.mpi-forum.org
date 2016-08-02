@@ -7,21 +7,20 @@ include_once("$topdir/include/header.php");
 
 ?>
 
-<h3><a name=registration>Meeting Registration</a></h3>
-
-
-<p>Advanced registration is required for this meeting.</p>
-<p>A link will be provided shortly. Registration will cost roughly 
-$150US/120GBPand will cover snacks at the meeting and lunch Thursday and Friday.
-</p>
-
-<div align=center><hr width=50%></div>
-
-<h3><a name=location>Meeting Location</a></h3>
-
+<h3><a name=location>Location</a><h3>
+The September 2016 MPI Forum Meeting is being held at the same location as <a href="www.eurompi2016.ed.ac.uk">EuroMPI 2016</a>. See <a href="http://www.eurompi2016.ed.ac.uk/mpi-forum">this link</a> for more details.
 <p>The meeting will take place at the John McIntyre Convention Centre Pentland room. This is the same location as the sessions of the EuroMPI 2016 conference and logistics and travel information is listed at <a href="http://www.eurompi2016.ed.ac.uk/venue">http://www.eurompi2016.ed.ac.uk/venue</a>
 </p>
 
+<h3><a name=registration>Meeting Registration</a></h3>
+
+
+<p>Advanced registration is required for this meeting and is separate from the EuroMPI registration.</p>
+<p>Registration will be £200. This covers the costs of snacks and lunches during the meeting.
+<a href="http://www.epay.ed.ac.uk/browse/extra_info.asp?compid=1&modid=2&deptid=24&catid=95&prodid=2359">Click here to register</a>
+</p>
+
+<div align=center><hr width=50%></div>
 
 <div align=center><hr width=50%></div>
 <h3><a aname=hotel>Hotel</a></h3>
