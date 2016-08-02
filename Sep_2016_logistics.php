@@ -7,8 +7,8 @@ include_once("$topdir/include/header.php");
 
 ?>
 
-<h3><a name=location>Location</a><h3>
-The September 2016 MPI Forum Meeting is being held at the same location as <a href="www.eurompi2016.ed.ac.uk">EuroMPI 2016</a>. See <a href="http://www.eurompi2016.ed.ac.uk/mpi-forum">this link</a> for more details.
+<h3><a name=location>Location</a></h3>
+The September 2016 MPI Forum Meeting is being held at the same location as <a href="http://www.eurompi2016.ed.ac.uk">EuroMPI 2016</a>. See <a href="http://www.eurompi2016.ed.ac.uk/mpi-forum">this link</a> for more details.
 <p>The meeting will take place at the John McIntyre Convention Centre Pentland room. This is the same location as the sessions of the EuroMPI 2016 conference and logistics and travel information is listed at <a href="http://www.eurompi2016.ed.ac.uk/venue">http://www.eurompi2016.ed.ac.uk/venue</a>
 </p>
 
