@@ -29,7 +29,8 @@ agenda_item(" 3:30pm -   5:30pm", "Plenary (see below)");
 agenda_day_end();
 
 agenda_day_start("Friday, September 23, 2016 - Plenary");
-agenda_item(" 9:00am -   11:00am", "Plenary (see below)");
+agenda_item(" 9:00am -   9:30am", "Votes (see below)");
+agenda_item(" 9:30am -   11:00am", "Plenary (see below)");
 agenda_item(" 11:00am - 11:30am", "Break");
 agenda_item(" 11:30am -   1:00pm", "Plenary (see below)");
 agenda_item(" 1:00pm -   2:00pm", "Lunch");
