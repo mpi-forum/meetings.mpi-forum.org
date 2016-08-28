@@ -31,7 +31,17 @@ agenda_item(" 3:30pm -   5:30pm", "Plenary (see below)");
 agenda_day_end();
 
 agenda_day_start("Friday, September 23, 2016 - Plenary and Working Groups");
-agenda_item(" 9:00am -   9:30am", "Votes (see below)");
+agenda_item(" 9:00am -   9:30am", "Votes");
+agenda_item("                ", "No \"No Votes\" Vote:");
+agenda_item("                ", "<a href=\"https://github.com/mpi-forum/mpi-issues/issues/26\">#26</a>: Deprecate point-to-point send cancel");
+agenda_item("                ", "Second Votes:");
+agenda_item("                ", "<a href=\"https://github.com/mpi-forum/mpi-issues/issues/26\">#26</a>: Deprecate point-to-point send cancel");
+agenda_item("                ", "First Vote:");
+
+agenda_item("","<a href=\"https://github.com/mpi-forum/mpi-issues/issues/52\">#52</a>: Remove info key propagation from MPI_COMM_DUP");
+agenda_item("","<a href=\"https://github.com/mpi-forum/mpi-issues/issues/53\">#53</a>: MPI_COMM_DUP_WITH_INFO can be used to explicitly propagate info hints");
+agenda_item("","<a href=\"https://github.com/mpi-forum/mpi-issues/issues/11\">#11</a>: Adds communicator info keys and allows info assertions");
+
 agenda_item(" 9:30am -   11:00am", "Plenary (see below)");
 agenda_item(" 11:00am - 11:30am", "Break");
 agenda_item(" 11:30am -   1:00pm", "Plenary (see below)");
@@ -43,8 +53,10 @@ agenda_day_end();
 
 
 agenda_plenary_start("Plenary Items to be Discussed",0);
+plenary_item("Welcome","Introductions","All",0);
 plenary_item("Update","WG status","All WG chairs or their proxies",0);
-plenary_item("","Persistence Plenary","Tony",0);
+plenary_item("Change Reading","<a href=\"https://github.com/mpi-forum/mpi-issues/issues/26\">#26</a>: Deprecate point-to-point send cancel","Dan",0);
+plenary_item("Discussion","Persistence Plenary","Tony",0);
 agenda_plenary_end();
 
 include_once("$topdir/include/footer.php");
