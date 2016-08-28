@@ -9,25 +9,25 @@ function ticket($num) {
 }
 
 agenda_day_start("Wednesday, September 21, 2016 - Working Groups");
-agenda_item(" 9:00am -   11:00am", "WG");
-agenda_item(" 11:00am - 11:30am", "Break");
-agenda_item(" 11:30am -   1:00pm", "WG");
-agenda_item(" 1:00pm -   2:00pm", "Lunch");
-agenda_item(" 2:00pm -   3:00pm", "Tools WG");
+agenda_item(" 9:00am -   10:30am", "WG");
+agenda_item(" 10:30am - 11:00am", "Break");
+agenda_item(" 11:00am -  12:30pm", "WG");
+agenda_item(" 12:30pm -   1:30pm", "Lunch");
+agenda_item(" 1:30pm -   3:00pm", "Tools WG");
 agenda_item(" 3:00pm -   3:30pm", "Break");
-agenda_item(" 3:30pm -   5:30pm", "Tools WG");
+agenda_item(" 3:30pm -   5:00pm", "Tools WG");
 agenda_day_end();
 
 agenda_day_start("Thursday, September 22, 2016 - Working Groups and Plenary");
-agenda_item(" 9:00am -   11:00am", "Hybrid WG");
-agenda_item(" 9:00am -   11:00am", "Persistance WG");
-agenda_item(" 11:00am - 11:30am", "Break");
-agenda_item(" 11:30am -   1:00pm", "Persistance WG");
-agenda_item(" 11:30am -   1:00pm", "RMA WG");
-agenda_item(" 1:00pm -   2:00pm", "Lunch");
-agenda_item(" 2:00pm -   3:00pm", "Plenary (see below)");
+agenda_item(" 9:00am -   10:30am", "Hybrid WG");
+agenda_item(" 9:00am -   10:30am", "Persistance WG");
+agenda_item(" 10:30am - 11:00am", "Break");
+agenda_item(" 11:00am -  12:30pm", "Persistance WG");
+agenda_item(" 11:00am -  12:30pm", "RMA WG");
+agenda_item(" 12:30pm -   1:30pm", "Lunch");
+agenda_item(" 1:30pm -   3:00pm", "Plenary (see below)");
 agenda_item(" 3:00pm -   3:30pm", "Break");
-agenda_item(" 3:30pm -   5:30pm", "Plenary (see below)");
+agenda_item(" 3:30pm -   5:00pm", "Plenary (see below)");
 agenda_day_end();
 
 agenda_day_start("Friday, September 23, 2016 - Plenary and Working Groups");
@@ -42,13 +42,13 @@ agenda_item("","<a href=\"https://github.com/mpi-forum/mpi-issues/issues/52\">#5
 agenda_item("","<a href=\"https://github.com/mpi-forum/mpi-issues/issues/53\">#53</a>: MPI_COMM_DUP_WITH_INFO can be used to explicitly propagate info hints");
 agenda_item("","<a href=\"https://github.com/mpi-forum/mpi-issues/issues/11\">#11</a>: Adds communicator info keys and allows info assertions");
 
-agenda_item(" 9:30am -   11:00am", "Plenary (see below)");
-agenda_item(" 11:00am - 11:30am", "Break");
-agenda_item(" 11:30am -   1:00pm", "Plenary (see below)");
-agenda_item(" 1:00pm -   2:00pm", "Lunch");
-agenda_item(" 2:00pm -   3:00pm", "WG");
+agenda_item(" 9:30am -   10:30am", "Plenary (see below)");
+agenda_item(" 10:30am - 11:00am", "Break");
+agenda_item(" 11:00am -   12:30pm", "Plenary (see below)");
+agenda_item(" 12:30pm -   1:30pm", "Lunch");
+agenda_item(" 1:30pm -   3:00pm", "WG");
 agenda_item(" 3:00pm -   3:30pm", "Break");
-agenda_item(" 3:30pm -   5:30pm", "WG");
+agenda_item(" 3:30pm -   5:00pm", "WG");
 agenda_day_end();
 
 
